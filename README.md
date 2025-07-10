@@ -101,3 +101,23 @@ Overall Loss
 
 Zoomed Loss (Last 20 Epochs)
 
+##OUTPUT
+
+<img width="1431" height="374" alt="image" src="https://github.com/user-attachments/assets/90f4b04f-45b0-42e9-9ca1-1039c642d559" />
+
+<img width="1428" height="353" alt="image" src="https://github.com/user-attachments/assets/014cf011-584a-4713-8fc9-4a9df262b88b" />
+
+<img width="1437" height="262" alt="image" src="https://github.com/user-attachments/assets/ef1b14e5-e987-4b13-9b51-627d07f1395e" />
+
+<img width="1434" height="491" alt="image" src="https://github.com/user-attachments/assets/d502c9b4-f530-415e-b818-c21d9fde490a" />
+
+<img width="1425" height="309" alt="image" src="https://github.com/user-attachments/assets/39c76ff1-cbe0-4a87-af99-087822bceb82" />
+
+<img width="1431" height="451" alt="image" src="https://github.com/user-attachments/assets/baa7113d-0516-4ea3-8d73-ee29240041d3" />
+
+
+
+
+
+
+
